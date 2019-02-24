@@ -1,0 +1,6 @@
+[
+  {"code": "RRD4D32", "discountType": "PERC", "toBeDiscounted": "10", "min": "1000", "max": "", "forProducts": [], "onPurchase": [], "on": "value"},
+  {"code": "44F4T11", "discountType": "PERC", "toBeDiscounted": "10", "min": "1500", "max": "", "forProducts": [], "onPurchase": [], "on": "value"},
+  {"code": "FF9543D1", "discountType": "PRICE", "toBeDiscounted": "8.99", "min": "10", "max": "", "forProducts": [], "onPurchase": [], "on": "value"},
+  {"code": "YYGWKJD", "discountType": "PRICE", "toBeDiscounted": "89.99", "min": "1", "max": "", "forProducts": ["form"], "onPurchase": ["wf"], "on": "quantity"}
+]
